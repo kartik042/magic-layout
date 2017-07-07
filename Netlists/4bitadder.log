@@ -1,0 +1,332 @@
+Circuit: * SPICE3 file created from /home/karti/4bitadder.ext - technology: scmos
+
+WARNING: Node GND! is floating.
+
+Instance "m1143": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1143": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1142": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1142": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1141": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1141": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1140": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1140": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1139": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1139": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1138": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1138": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1137": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1137": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1136": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1136": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1133": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1133": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1132": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1132": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1131": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1131": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1130": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1130": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1129": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1129": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1128": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1128": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1123": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1123": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1122": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1122": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1121": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1121": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1120": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1120": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1119": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1119": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1118": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1118": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1113": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1113": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1112": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1112": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1111": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1111": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1110": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1110": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1095": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1095": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1094": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1094": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1093": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1093": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1092": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1092": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1091": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1091": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1090": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1090": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1089": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1089": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1088": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1088": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1087": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1087": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1086": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1086": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1085": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1085": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1084": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1084": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1083": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1083": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1082": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1082": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1081": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1081": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1080": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1080": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1079": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1079": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1078": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1078": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1077": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1077": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1076": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1076": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1075": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1075": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1074": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1074": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1073": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1073": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1072": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1072": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1071": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1071": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1070": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1070": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1069": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1069": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1068": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1068": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1067": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1067": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1066": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1066": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1065": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1065": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1064": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1064": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1063": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1063": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1062": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1062": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1061": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1061": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1060": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1060": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1059": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1059": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1058": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1058": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1057": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1057": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1056": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1056": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1055": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1055": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1054": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1054": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1053": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1053": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1052": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1052": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1051": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1051": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1050": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1050": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1049": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1049": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1048": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1048": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1135": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1135": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1134": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1134": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1127": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1127": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1126": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1126": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1125": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1125": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1124": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1124": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1117": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1117": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1116": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1116": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1115": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1115": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1114": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1114": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1109": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1109": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1108": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1108": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1107": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1107": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1106": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1106": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1105": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1105": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1104": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1104": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1103": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1103": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1102": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1102": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1101": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1101": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1100": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1100": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1099": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1099": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1098": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1098": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1097": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1097": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1096": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1096": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1047": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1047": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1046": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1046": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1045": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1045": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1044": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1044": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1043": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1043": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1042": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1042": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1041": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1041": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1040": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1040": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1039": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1039": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1038": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1038": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1037": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1037": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1036": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1036": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1035": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1035": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1034": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1034": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1033": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1033": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1032": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1032": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1031": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1031": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1030": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1030": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1029": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1029": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1028": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1028": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1027": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1027": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1026": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1026": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1025": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1025": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1024": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1024": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1023": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1023": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1022": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1022": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1021": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1021": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1020": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1020": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1019": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1019": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1018": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1018": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1017": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1017": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1016": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1016": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1015": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1015": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1014": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1014": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1013": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1013": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1012": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1012": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1011": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1011": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1010": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1010": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1009": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1009": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1008": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1008": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1007": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1007": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1006": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1006": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1005": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1005": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1004": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1004": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1003": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1003": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1002": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1002": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1001": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1001": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1000": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1000": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Sun May 01 18:19:11 2016
+Total elapsed time: 0.367 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5200
+traniter = 4756
+tranpoints = 1531
+accept = 1406
+rejected = 125
+matrix size = 101
+fillins = 70
+solver = Normal
+Thread vector: 48.2/15.5[8] 28.9/5.6[8] 14.3/6.9[8] 0.6/2.3[1]  2592/500
+Matrix Compiler1: 19.71 KB object code size  5.2/2.3/[1.1]
+Matrix Compiler2: 15.25 KB object code size  2.6/2.6/[0.7]
+
+

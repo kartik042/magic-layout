@@ -1,0 +1,48 @@
+Circuit: * SPICE3 file created from /home/karti/Xor.ext - technology: scmos
+
+WARNING: Node GND! is floating.
+
+Instance "m1011": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1011": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1010": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1010": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1009": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1009": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1008": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1008": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1007": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1007": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1006": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1006": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1005": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1005": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1004": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1004": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1003": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1003": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1002": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1002": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1001": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1001": Width narrower than recommended for a level 1 MOSFET.
+Instance "m1000": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1000": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun May 01 18:20:35 2016
+Total elapsed time: 0.100 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2873
+traniter = 2848
+tranpoints = 1207
+accept = 1163
+rejected = 44
+matrix size = 14
+fillins = 4
+solver = Normal
+Matrix Compiler1: 1.35 KB object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 1.64 KB object code size  0.2/0.3/[0.1]
+
+

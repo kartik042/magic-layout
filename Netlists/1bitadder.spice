@@ -1,0 +1,103 @@
+* SPICE3 file created from /home/karti/1bitadder.ext - technology: scmos
+.MODEL pfet pmos
+.MODEL nfet nmos
+.tran 0.1n 40n
+M1000 a_n26_n22# A VDD VDD pfet w=4u l=2u
++ ad=32p pd=24u as=464p ps=344u
+M1001 a_n4_10# a_n26_n22# VDD VDD pfet w=4u l=2u
++ ad=24p pd=20u as=0p ps=0u
+M1002 a_4_10# B a_n4_10# VDD pfet w=4u l=2u
++ ad=64p pd=48u as=0p ps=0u
+M1003 a_26_10# A a_4_10# VDD pfet w=4u l=2u
++ ad=24p pd=20u as=0p ps=0u
+M1004 VDD a_32_n24# a_26_10# VDD pfet w=4u l=2u
++ ad=0p pd=0u as=0p ps=0u
+M1005 VDD B a_32_n24# VDD pfet w=4u l=2u
++ ad=0p pd=0u as=32p ps=24u
+M1006 a_129_n22# a_4_10# VDD VDD pfet w=4u l=2u
++ ad=32p pd=24u as=0p ps=0u
+M1007 a_151_10# a_129_n22# VDD VDD pfet w=4u l=2u
++ ad=24p pd=20u as=0p ps=0u
+M1008 Sum Cin a_151_10# VDD pfet w=4u l=2u
++ ad=64p pd=48u as=0p ps=0u
+M1009 a_181_10# a_4_10# Sum VDD pfet w=4u l=2u
++ ad=24p pd=20u as=0p ps=0u
+M1010 VDD a_187_n24# a_181_10# VDD pfet w=4u l=2u
++ ad=0p pd=0u as=0p ps=0u
+M1011 VDD Cin a_187_n24# VDD pfet w=4u l=2u
++ ad=0p pd=0u as=32p ps=24u
+M1012 a_n26_n22# A GND Gnd nfet w=4u l=2u
++ ad=32p pd=24u as=344p ps=260u
+M1013 a_n4_n22# B GND Gnd nfet w=4u l=2u
++ ad=40p pd=28u as=0p ps=0u
+M1014 a_4_10# A a_n4_n22# Gnd nfet w=4u l=2u
++ ad=48p pd=40u as=0p ps=0u
+M1015 a_26_n22# a_n26_n22# a_4_10# Gnd nfet w=4u l=2u
++ ad=24p pd=20u as=0p ps=0u
+M1016 GND a_32_n24# a_26_n22# Gnd nfet w=4u l=2u
++ ad=0p pd=0u as=0p ps=0u
+M1017 GND B a_32_n24# Gnd nfet w=4u l=2u
++ ad=0p pd=0u as=32p ps=24u
+M1018 a_129_n22# a_4_10# GND Gnd nfet w=4u l=2u
++ ad=32p pd=24u as=0p ps=0u
+M1019 a_151_n22# Cin GND Gnd nfet w=4u l=2u
++ ad=40p pd=28u as=0p ps=0u
+M1020 Sum a_4_10# a_151_n22# Gnd nfet w=4u l=2u
++ ad=48p pd=40u as=0p ps=0u
+M1021 a_181_n22# a_129_n22# Sum Gnd nfet w=4u l=2u
++ ad=24p pd=20u as=0p ps=0u
+M1022 GND a_187_n24# a_181_n22# Gnd nfet w=4u l=2u
++ ad=0p pd=0u as=0p ps=0u
+M1023 GND Cin a_187_n24# Gnd nfet w=4u l=2u
++ ad=0p pd=0u as=32p ps=24u
+M1024 a_153_n55# Cin VDD VDD pfet w=4u l=2u
++ ad=32p pd=24u as=0p ps=0u
+M1025 VDD a_4_10# a_153_n55# VDD pfet w=4u l=2u
++ ad=0p pd=0u as=0p ps=0u
+M1026 a_9_n67# A VDD VDD pfet w=4u l=2u
++ ad=32p pd=24u as=0p ps=0u
+M1027 VDD B a_9_n67# VDD pfet w=4u l=2u
++ ad=0p pd=0u as=0p ps=0u
+M1028 Cout a_153_n55# VDD VDD pfet w=4u l=2u
++ ad=32p pd=24u as=0p ps=0u
+M1029 VDD a_9_n67# Cout VDD pfet w=4u l=2u
++ ad=0p pd=0u as=0p ps=0u
+M1030 a_153_n85# Cin GND Gnd nfet w=4u l=2u
++ ad=32p pd=24u as=0p ps=0u
+M1031 a_153_n55# a_4_10# a_153_n85# Gnd nfet w=4u l=2u
++ ad=40p pd=28u as=0p ps=0u
+M1032 a_9_n97# A GND Gnd nfet w=4u l=2u
++ ad=32p pd=24u as=0p ps=0u
+M1033 a_9_n67# B a_9_n97# Gnd nfet w=4u l=2u
++ ad=40p pd=28u as=0p ps=0u
+M1034 a_217_n98# a_153_n55# GND Gnd nfet w=4u l=2u
++ ad=32p pd=24u as=0p ps=0u
+M1035 Cout a_9_n67# a_217_n98# Gnd nfet w=4u l=2u
++ ad=40p pd=28u as=0p ps=0u
+C0 VDD Cin 18.5fF
+C1 VDD a_4_10# 5.0fF
+C2 VDD B 18.5fF
+C3 VDD A 4.3fF
+C4 GND gnd! 57.9fF
+C5 Cout gnd! 6.4fF
+C6 a_9_n67# gnd! 32.9fF
+C7 a_153_n55# gnd! 21.8fF
+C8 Sum gnd! 13.7fF
+C9 a_187_n24# gnd! 14.4fF
+C10 a_129_n22# gnd! 29.4fF
+C11 a_4_10# gnd! 80.8fF
+C12 Cin gnd! 60.4fF
+C13 a_32_n24# gnd! 14.4fF
+C14 a_n26_n22# gnd! 29.4fF
+C15 A gnd! 59.1fF
+C16 B gnd! 71.5fF
+VDD VDD 0 5
+VA A 0 0 pulse 0 5 0n 1n 1n 6n 25n
+VB B 0 0 pulse 0 5 2n 1n 1n 8n 18n
+VCin Cin 0 0 pulse 0 5 1n 1n 2n 12n 22n
+.probe v(A)
+.probe v(B)
+.probe v(Cin)
+.probe v(Sum)
+.probe v(Cout)
+.end

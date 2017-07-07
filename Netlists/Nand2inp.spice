@@ -1,0 +1,24 @@
+* SPICE3 file created from Nand2inp.ext - technology: scmos
+.MODEL pfet pmos
+.MODEL nfet nmos
+.tran 0.1n 40n
+M1000 Y A VDD VDD pfet w=12u l=4u
++ ad=216p pd=60u as=336p ps=104u
+M1001 VDD B Y VDD pfet w=12u l=4u
++ ad=0p pd=0u as=0p ps=0u
+M1002 a_n4_n36# A GND GND nfet w=10u l=4u
++ ad=180p pd=56u as=140p ps=48u
+M1003 Y B a_n4_n36# GND nfet w=10u l=4u
++ ad=160p pd=52u as=0p ps=0u
+C0 GND gnd! 24.4fF
+C1 Y gnd! 25.4fF
+C2 VDD gnd! 33.3fF
+C3 B gnd! 29.7fF
+C4 A gnd! 25.5fF
+VDD VDD 0 5
+VA A 0 0 pulse 0 5 0n 2n 2n 6n 25n
+VB B 0 0 pulse 0 5 2n 2n 2n 8n 22n
+.probe v(A)
+.probe v(B)
+.probe v(Y)
+.end

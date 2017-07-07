@@ -1,0 +1,43 @@
+* SPICE3 file created from /home/karti/Xor.ext - technology: scmos
+.MODEL pfet pmos
+.MODEL nfet nmos
+.tran 0.1n 40n
+M1000 a_n26_n22# A VDD VDD pfet w=4u l=2u
++ ad=32p pd=24u as=112p ps=88u
+M1001 a_n4_10# a_n26_n22# VDD VDD pfet w=4u l=2u
++ ad=24p pd=20u as=0p ps=0u
+M1002 Y B a_n4_10# VDD pfet w=4u l=2u
++ ad=64p pd=48u as=0p ps=0u
+M1003 a_26_10# A Y VDD pfet w=4u l=2u
++ ad=24p pd=20u as=0p ps=0u
+M1004 VDD a_32_n24# a_26_10# VDD pfet w=4u l=2u
++ ad=0p pd=0u as=0p ps=0u
+M1005 VDD B a_32_n24# VDD pfet w=4u l=2u
++ ad=0p pd=0u as=32p ps=24u
+M1006 a_n26_n22# A GND Gnd nfet w=4u l=2u
++ ad=32p pd=24u as=112p ps=88u
+M1007 a_n4_n22# B GND Gnd nfet w=4u l=2u
++ ad=40p pd=28u as=0p ps=0u
+M1008 Y A a_n4_n22# Gnd nfet w=4u l=2u
++ ad=48p pd=40u as=0p ps=0u
+M1009 a_26_n22# a_n26_n22# Y Gnd nfet w=4u l=2u
++ ad=24p pd=20u as=0p ps=0u
+M1010 GND a_32_n24# a_26_n22# Gnd nfet w=4u l=2u
++ ad=0p pd=0u as=0p ps=0u
+M1011 GND B a_32_n24# Gnd nfet w=4u l=2u
++ ad=0p pd=0u as=32p ps=24u
+C0 VDD B 17.1fF
+C1 VDD A 2.9fF
+C2 GND gnd! 21.1fF
+C3 Y gnd! 13.3fF
+C4 a_32_n24# gnd! 14.4fF
+C5 a_n26_n22# gnd! 29.4fF
+C6 A gnd! 27.4fF
+C7 B gnd! 19.9fF
+VDD VDD 0 5
+VA A 0 0 pulse 0 5 0n 1n 1n 6n 28n
+VB B 0 0 pulse 0 5 2n 1n 1n 10n 18n
+.probe v(A)
+.probe v(B)
+.probe v(Y)
+.end

@@ -1,0 +1,16 @@
+* SPICE3 file created from inverter.ext - technology: scmos
+.MODEL pfet pmos
+.MODEL nfet nmos
+.tran 0.1n 40n
+M1000 vout vin Vdd Vdd pfet w=4u l=4u
++ ad=32p pd=24u as=32p ps=24u
+M1001 vout vin GND Gnd nfet w=4u l=4u
++ ad=32p pd=24u as=32p ps=24u
+*C0 vout gnd! 6.4fF
+*C1 a_n24_n20# gnd! 29.7fF
+*C2 a_n8_10# gnd! 6.0fF
+vdd vdd 0 5
+vin vin 0 0 pulse 0 5 1n 2n 2n 7n 20n
+.probe v(vin)
+.probe v(vout)
+.end
